@@ -72,7 +72,6 @@ var imageFunctions = {
               '</div>',
             '</div>'
         ].join('');
-
         //image attributes added
         $image.attr({
           alt: alt,
